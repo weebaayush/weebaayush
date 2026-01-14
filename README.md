@@ -73,19 +73,6 @@ A web-based SaaS platform designed to help college clubs and student bodies mana
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=weebaayush&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebaayush&layout=compact&langs_count=6&theme=tokyonight" height="160"/>
-
-</div>
-
-
----
-
 ## 🎯 Current Focus
 
 - Building scalable SaaS platforms
