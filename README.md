@@ -79,9 +79,10 @@ A web-based SaaS platform designed to help college clubs and student bodies mana
 
 <img src="https://github-readme-stats.vercel.app/api?username=weebaayush&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=weebaayush&layout=compact&langs_count=6&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebaayush&layout=compact&langs_count=6&theme=tokyonight" height="160"/>
 
 </div>
+
 
 ---
 
@@ -97,10 +98,19 @@ A web-based SaaS platform designed to help college clubs and student bodies mana
 ## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35"/>
+  <a href="https://github.com/weebaayush" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aayush-gautam-2256aa376/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+  <a href="mailto:ayushgautam00004@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
 </p>
+
 
 ---
 
