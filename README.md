@@ -22,7 +22,7 @@
 
 ## 🧩 Featured Project
 
-### 🌐 ClubSphere – College Club Management SaaS
+### 🌐 ClubConnect – College Club Management SaaS
 
 A web-based SaaS platform designed to help college clubs and student bodies manage:
 
